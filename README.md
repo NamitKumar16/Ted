@@ -1,7 +1,8 @@
 # TEDx
 
-This is a simple UI for a Tedx App I created while learning Flutter. 
+This is a simple home page UI for a Tedx App I created while learning Flutter. 
 
 ## Screenshots
 
-<img src="images/1.png" width="280" height="500"> <img src="images/2.png" width="280" height="500"> <img src="images/3.png" width="280" height="500">
+<img src="screenshots/1.png" width="290" height="500"> <img src="screenshots/2.png" width="290" height="500">
+<img src="screenshots/3.png" width="290" height="500">
