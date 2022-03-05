@@ -1,9 +1,7 @@
-# Ted
+# TEDx
 
-This is a simple UI for a Tedx App I created while learning flutter. 
+This is a simple UI for a Tedx App I created while learning Flutter. 
 
 ## Screenshots
 
-![1](/images/1.png)
-![2](/images/2.png)
-![3](/images/3.png)
+<img src="images/1.png" width="280" height="500"> <img src="images/2.png" width="280" height="500"> <img src="images/3.png" width="280" height="500">
